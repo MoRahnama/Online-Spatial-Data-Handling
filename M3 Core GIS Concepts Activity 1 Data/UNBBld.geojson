@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Head Hall, UNB", "department": "GGE", "address": "15 Dineen Dr", "yr_open": 1968 }, "geometry": { "type": "Point", "coordinates": [ 45.950101128120131, -66.641524463532008 ] } }
+]
+}
